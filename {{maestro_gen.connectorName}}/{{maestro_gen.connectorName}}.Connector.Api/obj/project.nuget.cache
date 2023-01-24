@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "91U86NoZ8eQMfGGegCAPyKBFCQFQpIlC2EQbR2Wu8Yffg4UMqi98obdSFIBPTbGeJ+gnNgCLJ4X0wVkVMCH5TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\teste_delage\\maestro-repository-cookieCutter\\{{maestro_gen.connectorName}}\\{{maestro_gen.connectorName}}.Connector.Api\\{{maestro_gen.connectorName}}.Connector.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

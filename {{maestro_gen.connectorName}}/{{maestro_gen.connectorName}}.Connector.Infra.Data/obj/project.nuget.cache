@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJqpzmmxApK0yevuX+5G3A++p67I0MYr4fJ2/e3pRdiHKZnou3KT0kWSKoXfYdTyGpM2dlyU/oyhgKxdAegbig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\teste_delage\\maestro-repository-cookieCutter\\{{maestro_gen.connectorName}}\\{{maestro_gen.connectorName}}.Connector.Infra.Data\\{{maestro_gen.connectorName}}.Connector.Infra.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
