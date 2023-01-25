@@ -1,6 +1,0 @@
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\Maestro.Integration.Rappi.exe
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\Maestro.Integration.Rappi.dll
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\Maestro.Integration.Rappi.deps.json
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\Maestro.Integration.Rappi.runtimeconfig.json
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\Maestro.Integration.Rappi.pdb
-C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\publish\CommandLine.dll
