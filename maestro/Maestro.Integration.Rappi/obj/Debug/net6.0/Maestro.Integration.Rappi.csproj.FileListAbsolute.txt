@@ -1,0 +1,17 @@
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\Maestro.Integration.Rappi.exe
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\Maestro.Integration.Rappi.deps.json
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\Maestro.Integration.Rappi.runtimeconfig.json
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\Maestro.Integration.Rappi.dll
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\Maestro.Integration.Rappi.pdb
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.csproj.AssemblyReference.cache
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.AssemblyInfoInputs.cache
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.AssemblyInfo.cs
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.dll
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\refint\Maestro.Integration.Rappi.dll
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.pdb
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.genruntimeconfig.cache
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\ref\Maestro.Integration.Rappi.dll
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\bin\Debug\net6.0\CommandLine.dll
+C:\Users\lucas\teste_delage\maestro\Maestro.Integration.Rappi\obj\Debug\net6.0\Maestro.Integration.Rappi.csproj.CopyComplete
